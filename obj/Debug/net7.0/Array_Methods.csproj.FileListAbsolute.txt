@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\bin\Debug\net7.0\Array_Methods.exe
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\bin\Debug\net7.0\Array_Methods.deps.json
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\bin\Debug\net7.0\Array_Methods.runtimeconfig.json
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\bin\Debug\net7.0\Array_Methods.dll
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\bin\Debug\net7.0\Array_Methods.pdb
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\Array_Methods.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\Array_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\Array_Methods.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\Array_Methods.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\Array_Methods.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\Array_Methods.dll
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\refint\Array_Methods.dll
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\Array_Methods.pdb
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\Array_Methods.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\Visual_Studio\Array_Methods\obj\Debug\net7.0\ref\Array_Methods.dll
